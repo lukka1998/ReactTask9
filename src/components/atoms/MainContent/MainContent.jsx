@@ -2,7 +2,7 @@ import React from 'react';
 import illustration from "../../../assets/illustration_1-01 (1).png"
 function MainContent() {
   return (
-    <section className=" mb-[100px] py-20 flex  justify-between align-center px-10 ">
+    <section className=" mb-[100px] py-20 flex  justify-between items-center px-10  ">
       <div className="container mx-auto w-7/12  gap-12 flex flex-col  justify-center items-start "> 
         <h1 className="text-5xl font-bold text-gray-800 leading-[4.5rem] ">All your files in one secure location, accessible anywhere.</h1>
         <p className="text-base font-normal text-gray-800 leading-7 tracking-wide">

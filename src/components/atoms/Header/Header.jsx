@@ -9,8 +9,7 @@ function Header() {
                 <div className='text-[#07043B] font-raleway text-base font-normal leading-normal'>Features</div>
                 <div>Team</div>
                 <div>Sign In</div>
-                <div>luka</div>
-                <div>gio</div>
+                
             </div>
         </div>
     )
